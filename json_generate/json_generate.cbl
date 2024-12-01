@@ -61,5 +61,4 @@
            display "Done."
            stop run.
 
-
        end program json-generate-example.
